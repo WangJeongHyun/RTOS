@@ -1,0 +1,7 @@
+# Reference material, installers, archives (too large for GitHub)
+DOC/
+
+# Keil build artifacts
+SOURCE/proj/Objects/
+SOURCE/proj/Listings/
+*.uvguix.*
